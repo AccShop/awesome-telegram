@@ -39,44 +39,22 @@
   </a>
 </p>
 
+</div>
+
 ---
 
-<h3>🔗 &nbsp;精选实用资源与服务</h3>
+### 🔗 精选实用资源与服务
 
-<p>
-  <b>🛒 优选账号 & 生产力工具</b><br><br>
-  <a href="https://tgsss.com/568FC132">
-    <img src="https://img.shields.io/badge/📱_优质账号源头-现号秒发-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="账号购买"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://pay.ldxp.cn/shop/008">
-    <img src="https://img.shields.io/badge/🤖_AI_高级订阅-特价特惠-FF6B35?style=for-the-badge" alt="AI订阅"/>
-  </a>
-</p>
+| ⚡️ 资源分类 | 📦 平台 / 资源名称 | 💡 核心亮点与介绍 | 🔗 快捷直达 |
+| :--- | :--- | :--- | :--- |
+| **🛒 账号源头** | **[全品类发卡平台](https://tgsss.com/568FC132)** | TG现号秒发、各区优质资源，24h全自动发货保障 | [👉 点击选购](https://tgsss.com/568FC132) |
+| **🤖 AI 生产力** | **[AI 高级订阅中心](https://pay.ldxp.cn/shop/008)** | 高频生产力工具账号订阅，安全稳定特惠 | [👉 立即订阅](https://pay.ldxp.cn/shop/008) |
+| **🍎 苹果生态** | **[海外 Apple ID 共享](https://daoid.pages.dev/)** | 外区 ID 免费使用，轻松下载海外应用商店 App | [👉 免费获取](https://daoid.pages.dev/) |
+| **✈️ 科学上网** | **[老牌高速机场 · 极速版](https://aff.v2ny.mom?path=register&code=iEwQYZsv)** | 稳定解锁流媒体与 TG，晚高峰秒开不卡顿 | [👉 注册体验](https://aff.v2ny.mom?path=register&code=iEwQYZsv) |
+| **✈️ 科学上网** | **[老牌高速机场 · 稳定版](http://www.fb2026.cc/#/register?code=TuoTBZxP)** | 多节点覆盖，超高性价比，防风控首选网络 | [👉 注册体验](http://www.fb2026.cc/#/register?code=TuoTBZxP) |
+| **📖 新手必看** | **[TG 防封与登录教程](https://pan.quark.cn/s/b3af89c26883)** | 纯小白保姆级指南：安全登录、防封、防失联教程 | [👉 观看视频](https://pan.quark.cn/s/b3af89c26883) |
 
-<p>
-  <b>🚀 必备网络 & 共享资源</b><br><br>
-  <a href="https://daoid.pages.dev/">
-    <img src="https://img.shields.io/badge/🍎_苹果_ID_共享-免费使用-1c1c1e?style=for-the-badge&logo=apple&logoColor=white" alt="苹果ID共享"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://aff.v2ny.mom?path=register&code=iEwQYZsv">
-    <img src="https://img.shields.io/badge/✈️_老牌高速机场_1-稳定解锁-1565C0?style=for-the-badge" alt="老牌机场1"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="http://www.fb2026.cc/#/register?code=TuoTBZxP">
-    <img src="https://img.shields.io/badge/✈️_老牌高速机场_2-点击注册-00796B?style=for-the-badge" alt="老牌机场2"/>
-  </a>
-</p>
-
-<p>
-  <b>📖 新手指南与防封防失联</b><br><br>
-  <a href="https://pan.quark.cn/s/b3af89c26883">
-    <img src="https://img.shields.io/badge/🎬_小白防封与登录教程-点击观看-9B59B6?style=for-the-badge" alt="登录教程"/>
-  </a>
-</p>
-
-</div>
+<br>
 
 # 📋 目录
 
