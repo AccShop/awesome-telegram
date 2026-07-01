@@ -23,6 +23,18 @@
 
 ---
 
+<h3>🎁 专属福利：免费永久 999999G 科学上网订阅</h3>
+
+<p>
+  🚀 <b>Base64 通用格式</b>（支持各类主流客户端）：<a href="https://gist.githubusercontent.com/Houwangluo-DAO/9ec8f0017049c5d21d9a2ca1bd809512/raw/946205aae141d7ffe71717f5b353463b3e414c9e/DAO.txt?upload=147251&download=528313&total=10737417166258176&expire=0">👉 点击获取链接</a>
+  <br><br>
+  🚀 <b>Clash YAML 格式</b>（Clash 客户端专用）：<a href="https://gist.githubusercontent.com/Houwangluo-DAO/b0c83ecb8e376092703b10d8bc1711ad/raw/7ffe766d2fc6d2ec74448a8a5cd1d18eda36ba7e/DAO.yaml?upload=147251&download=528313&total=10737417166258176&expire=0">👉 点击获取链接</a>
+</p>
+
+<br>
+
+---
+
 <h3>🌏 &nbsp;Telegram 一键安装语言包</h3>
 
 <p>
@@ -50,9 +62,13 @@
 | **🛒 账号源头** | **[全品类发卡平台](https://tgsss.com/568FC132)** | TG现号秒发、各区优质资源，24h全自动发货保障 | [👉 点击选购](https://tgsss.com/568FC132) |
 | **🤖 AI 生产力** | **[AI 高级订阅中心](https://pay.ldxp.cn/shop/0000)** | 高频生产力工具账号订阅，安全稳定特惠 | [👉 立即订阅](https://pay.ldxp.cn/shop/0000) |
 | **🍎 苹果生态** | **[海外 Apple ID 共享](https://daoid.pages.dev/)** | 外区 ID 免费使用，轻松下载海外应用商店 App | [👉 免费获取](https://daoid.pages.dev/) |
-| **✈️ 科学上网** | **[老牌高速机场 · 极速版](https://aff.v2ny.mom?path=register&code=iEwQYZsv)** | 稳定解锁流媒体与 TG，晚高峰秒开不卡顿 | [👉 注册体验](https://aff.v2ny.mom?path=register&code=iEwQYZsv) |
-| **✈️ 科学上网** | **[老牌高速机场 · 稳定版](http://www.fb2026.cc/#/register?code=TuoTBZxP)** | 多节点覆盖，超高性价比，防风控首选网络 | [👉 注册体验](http://www.fb2026.cc/#/register?code=TuoTBZxP) |
+| **✈️ 科学上网** | **[家宽专线 1️⃣](https://88888.ee88.tk/#/register?code=Yijufhlo)** | 稳定解锁流媒体与 TG，晚高峰秒开不卡顿 | [👉 注册体验](https://88888.ee88.tk/#/register?code=Yijufhlo) |
+| **✈️ 科学上网** | **[家宽专线 2️⃣](https://xn--ehq00hgtfdmt.xyz/register?code=ipPz6I0t)** | 多节点覆盖，超高性价比，防风控首选网络 | [👉 注册体验](https://xn--ehq00hgtfdmt.xyz/register?code=ipPz6I0t) |
+| **✈️ 科学上网** | **[家宽专线 3️⃣](https://www.sufe.pro/#/register?code=6mdgaoRw)** | 高速稳定专线，畅享丝滑网络体验 | [👉 注册体验](https://www.sufe.pro/#/register?code=6mdgaoRw) |
+| **✈️ 科学上网** | **[家宽专线 4️⃣](https://43.154.124.197:4801/#/register?code=i6Q4Cx6q)** | 优质家宽IP，海淘与跨境业务防封必备 | [👉 注册体验](https://43.154.124.197:4801/#/register?code=i6Q4Cx6q) |
+| **✈️ 科学上网** | **[家宽专线 5️⃣](https://main.laoda666.com/#/register?code=swtGUzgM)** | 大带宽低延迟，完美支持多端流媒体播放 | [👉 注册体验](https://main.laoda666.com/#/register?code=swtGUzgM) |
 | **📖 新手必看** | **[TG 防封与登录教程](https://pan.quark.cn/s/b3af89c26883)** | 纯小白保姆级指南：安全登录、防封、防失联教程 | [👉 观看视频](https://pan.quark.cn/s/b3af89c26883) |
+
 
 <br>
 
