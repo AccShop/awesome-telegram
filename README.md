@@ -38,18 +38,11 @@
 <h3>🌏 &nbsp;Telegram 一键安装语言包</h3>
 
 <p>
-  <a href="https://t.me/setlanguage/zhcncc">
-    <img src="https://img.shields.io/badge/🇨🇳_简体中文-点击安装-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="简体中文"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://t.me/setlanguage/zh-hant-raw">
-    <img src="https://img.shields.io/badge/🇭🇰_繁体(香港)-点击安装-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="繁体香港"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://t.me/setlanguage/zh-hant-beta">
-    <img src="https://img.shields.io/badge/🇹🇼_繁体(台湾)-点击安装-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="繁体台湾"/>
+  <a href="https://t.me/aidao00">
+    <img src="https://img.shields.io/badge/🇨🇳_获取中文语言包-点击进群获取-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="获取中文语言包"/>
   </a>
 </p>
+<p><sub>💡 <b>提示：</b>点击上方按钮加入我们的 Telegram 群组，进群后机器人会自动发送中文包，点击即可一键汉化。</sub></p>
 
 </div>
 
@@ -2217,7 +2210,7 @@ GroupHub_bot)                           | 中文圈优质群组导航           
 
 **🌟 如果本项目对你有帮助，欢迎 Star 支持！**
 
-[导航网站 98nav.com](https://98nav.com) · [TG 百科 @pindaotj](https://t.me/pindaotj)
+[💬 加入官方交流群获取更多资源 @aidao00](https://t.me/aidao00)
 
 </div>
 
